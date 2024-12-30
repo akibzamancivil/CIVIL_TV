@@ -1,6 +1,6 @@
 ##EXTM3U
 
-XTINF:-1 tvg-logo="" group-title="tv", Channel Name 
+XTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5613629e-48b2-4bf1-918e-f0adc3abc394_180x180_tsports.png" group-title="tv", Channel Name 
 http://t.bdixtv24.com/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_720.m3u8
 
 
